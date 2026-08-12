@@ -6,4 +6,7 @@ DATA TYPES:
 3.Float:decimal values
 4.Boolean:True OR False
 5.None:no value
+KEYWORDS: Keywords are reserved words in python 
+eg: and, else, for, except, None, False, True etc
+Python is a case sensitive language.
 

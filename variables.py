@@ -9,3 +9,10 @@ print("my age is:",age2)
 print(type(name))
 print(type(age))
 print(type(price))
+#########understanding types 
+age=23
+old=False
+a=None
+print(type(old))
+print(type(a))
+
